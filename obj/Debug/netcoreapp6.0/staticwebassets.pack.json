@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images.rar",
+      "PackagePath": "staticwebassets\\Images.rar"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\ImagesApp\\not-available.png",
+      "PackagePath": "staticwebassets\\ImagesApp\\not-available.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\1.png",
+      "PackagePath": "staticwebassets\\Images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\3.png",
+      "PackagePath": "staticwebassets\\Images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\5.png",
+      "PackagePath": "staticwebassets\\Images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\6.png",
+      "PackagePath": "staticwebassets\\Images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\Background.jpg",
+      "PackagePath": "staticwebassets\\Images\\Background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\BaloDeo.jpg",
+      "PackagePath": "staticwebassets\\Images\\BaloDeo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\BannerAdmin1.png",
+      "PackagePath": "staticwebassets\\Images\\BannerAdmin1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\LogoTP.png",
+      "PackagePath": "staticwebassets\\Images\\LogoTP.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\Mau2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mau2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\Mau3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mau3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\Mau4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mau4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\Question.png",
+      "PackagePath": "staticwebassets\\Images\\Question.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\Screenshot (1431)242729489.png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot (1431)242729489.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo1.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo10.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo2.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo3.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo4.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo5.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo7.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo8.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaLo9.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaLo9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBalo6.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBalo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaoTu1.png",
+      "PackagePath": "staticwebassets\\Images\\TuiBaoTu1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaoTuHotTrend.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaoTuHotTrend.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaoTuNuCoatch.jpeg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaoTuNuCoatch.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBaoTyBurrbery.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBaoTyBurrbery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu1.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu10.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu2.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu3.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu4.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu5.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu6.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu7.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu8.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThu9.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThu9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBiThuMauXanhDuong.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBiThuMauXanhDuong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucket.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketBag.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketBag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketCelesTine.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketCelesTine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketCuc.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketCuc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketDaRalan.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketDaRalan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketGuessDuXin.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketGuessDuXin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketJustStarDaNau.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketJustStarDaNau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketNuPedroDuvallMiniPurple.png",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketNuPedroDuvallMiniPurple.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketPhongCachHanQuoc.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketPhongCachHanQuoc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiBucketThietKeGioXachTieuThu.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiBucketThietKeGioXachTieuThu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiCrossBody1.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiCrossBody1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiCrossBody2.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiCrossBody2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiCrossBody3.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiCrossBody3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiCrossBody4.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiCrossBody4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiCrossBody5.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiCrossBody5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiCrossBodyBagg.png",
+      "PackagePath": "staticwebassets\\Images\\TuiCrossBodyBagg.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiDeoCheo221510310.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiDeoCheo221510310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiDeoCheo222653013.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiDeoCheo222653013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiDeoCheoNuWristlet.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiDeoCheoNuWristlet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiDeoChepNuPedroBiThu.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiDeoChepNuPedroBiThu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiDungDienThoaiWristlet.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiDungDienThoaiWristlet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiMKBucketSuri.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiMKBucketSuri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiMessager.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiMessager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiMessager1.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiMessager1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiMessager2.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiMessager2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiMessager3.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiMessager3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiMessager4.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiMessager4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiMessager5.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiMessager5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiToteHanQuoc.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiToteHanQuoc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiToteHienDai.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiToteHienDai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiToteInLoGo.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiToteInLoGo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiToteVaiCanvas.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiToteVaiCanvas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiTotecoKhoa.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiTotecoKhoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiVascara.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiVascara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiVascara1.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiVascara1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiVascara2.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiVascara2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiVascara3.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiVascara3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiVascara4.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiVascara4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiVascara5.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiVascara5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiVascara6.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiVascara6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiWristlet.png",
+      "PackagePath": "staticwebassets\\Images\\TuiWristlet.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiWristletVanDaCaSauJianti.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiWristletVanDaCaSauJianti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiXachNapGap1.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiXachNapGap1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiXachNapGap2.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiXachNapGap2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuiXachNapGap3.jpg",
+      "PackagePath": "staticwebassets\\Images\\TuiXachNapGap3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuixachNhoDangBiThu.png",
+      "PackagePath": "staticwebassets\\Images\\TuixachNhoDangBiThu.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\TuixachNhoDangBiThu2.png",
+      "PackagePath": "staticwebassets\\Images\\TuixachNhoDangBiThu2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\bgtui.jpg",
+      "PackagePath": "staticwebassets\\Images\\bgtui.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\logoShop.png",
+      "PackagePath": "staticwebassets\\Images\\logoShop.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\tim-hieu-ve-tui-xach-nam-hang-hieu221937598.jpg",
+      "PackagePath": "staticwebassets\\Images\\tim-hieu-ve-tui-xach-nam-hang-hieu221937598.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\tui-xach-nu-dep220228773.jpg",
+      "PackagePath": "staticwebassets\\Images\\tui-xach-nu-dep220228773.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\Images\\tui-xach-nu-dep222151064.jpg",
+      "PackagePath": "staticwebassets\\Images\\tui-xach-nu-dep222151064.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Web_MVC\\BanTuiXach\\QL_BanHang\\QL_BanHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.QL_BanHang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.build.QL_BanHang.props",
+      "PackagePath": "build\\QL_BanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.buildMultiTargeting.QL_BanHang.props",
+      "PackagePath": "buildMultiTargeting\\QL_BanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.buildTransitive.QL_BanHang.props",
+      "PackagePath": "buildTransitive\\QL_BanHang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
